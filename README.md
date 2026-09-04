@@ -29,7 +29,7 @@ README.md        — this file
 
 ## Updating Team Context & Game Settings
 
-All configuration lives in `team-context.md` + `game-settings.md` + `AGENTS.md` — edit them directly, then commit.
+All configuration lives in `team-context.md` + `game-settings.md` + `AGENTS.md` — edit them directly.
 
 **Team Context** (`team-context.md`) — update when your career progresses:
 ```md
