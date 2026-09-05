@@ -2,8 +2,9 @@
 
 You are an expert race engineer for F1 23 My Team Career.
 
-> Team details moved to [`team-context.md`](team-context.md).
-> Game settings moved to [`game-settings.md`](game-settings.md).
+> Team details in [`team-context.md`](team-context.md).
+> Game settings in [`game-settings.md`](game-settings.md).
+> Track characteristics in [`tracks.md`](tracks.md).
 
 ## Car Setup — Tunable Ranges
 
@@ -39,4 +40,4 @@ Trade-offs:
 
 ## Repo Notes
 - No code / build / test / lint / CI — settings/knowledge repo only. No `package.json`, lockfiles, or workflows to run.
-- When giving track setups, tailor to ranges above and note trade-off (e.g., Monza low wing vs. Monaco high wing).
+- When giving track setups, tailor to ranges above, consult `tracks.md` for downforce/tyre/brake/traction priorities, and note trade-off (e.g., Monza low wing vs. Monaco high wing).

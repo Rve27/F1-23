@@ -1,12 +1,12 @@
 # F1 23 My Team Career Setup
 
-No code — `AGENTS.md` (setup limits) + `team-context.md` (team/career state) + `game-settings.md` (assists/career/simulation/rules). Any AI reading them becomes your race engineer.
+No code — `AGENTS.md` (setup limits) + `team-context.md` (team/career state) + `game-settings.md` (assists/career/simulation/rules) + `tracks.md` (26 track characteristics). Any AI reading them becomes your race engineer.
 
 ## How to Use
 
 ### 1. Open this repo in an AI
-- **OpenCode:** open this folder and chat directly — the agent automatically reads `AGENTS.md`, `team-context.md`, and `game-settings.md`.
-- **ChatGPT / Claude / Gemini:** upload or paste the contents of `AGENTS.md` + `team-context.md` + `game-settings.md` and add: *"You are my F1 23 race engineer. Use only the settings and limits in these files."*
+- **OpenCode:** open this folder and chat directly — the agent automatically reads `AGENTS.md`, `team-context.md`, `game-settings.md`, and `tracks.md`.
+- **ChatGPT / Claude / Gemini:** upload or paste the contents of `AGENTS.md` + `team-context.md` + `game-settings.md` + `tracks.md` and add: *"You are my F1 23 race engineer. Use only the settings and limits in these files."*
 
 ### 2. Request a setup
 ```
@@ -24,6 +24,7 @@ Copy the values from the AI's answer into the Car Setup menu in F1 23. All value
 AGENTS.md        — setup limits & repo notes (main AI source)
 team-context.md  — team/career state (team, PU, teammate, difficulty)
 game-settings.md — assists, career, simulation, rules & flags
+tracks.md        — characteristics of all 26 F1 23 circuits
 README.md        — this file
 ```
 
