@@ -7,7 +7,7 @@
 
 ### Career
 - Driver Moves: On | Department Event Frequency: Increased | Facility Management: On | R&D Management: On | My Team Icons: On
-- Resources (all Default): Team Acclaim Rate (Player/AI), Acclaim Rate (Player/AI), Resource Rate (Player/AI), Cash Rate (Player/AI)
+- Resources (all Increased): Team Acclaim Rate (Player/AI), Acclaim Rate (Player/AI), Resource Rate (Player/AI), Cash Rate (Player/AI)
 - Player Faults: Fault Frequency Standard | Fault Types High
 
 ### Simulation
