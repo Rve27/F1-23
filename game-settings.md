@@ -18,3 +18,8 @@
 ### Rules & Flags
 - Rules and Flags: On | Corner Cutting Stringency: Regular | Parc Fermé Rules: On | Pit Stop Experience: Immersive
 - Safety Car: Increased | Safety Car Experience: Immersive | Formation Lap: Off | Formation Lap Experience: Immersive (greyed) | Red Flags: Increased
+
+### Controls - Calibration (Rexus Gladius GX550 Gamepad)
+- Steering: Rate 100% | Deadzone 0 | Linearity 15 | Saturation 0
+- Throttle: Deadzone 0 | Linearity 0 | Saturation 0
+- Brake: Deadzone 0 | Linearity 25 | Saturation 0
