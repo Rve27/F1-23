@@ -1,7 +1,7 @@
 # Game Settings
 
 ### Assists
-- Driving Proficiency: Custom | Steering Assist: Off | Braking Assist: Off | Anti-Lock Brakes: On | Traction Control: Full
+- Driving Proficiency: Custom | Steering Assist: Off | Braking Assist: Off | Anti-Lock Brakes: Off | Traction Control: Full
 - Dynamic Racing Line: Corners Only | Type: 3D | Hi-Vis: Off
 - Gearbox: Automatic | Pit Assist: On | Pit Release Assist: On | ERS Assist: Off | DRS Assist: On | Recurring Flashback Prompt: Off
 
